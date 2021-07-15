@@ -1,0 +1,19 @@
+MENU ADMIN
+
+validasi pencarian edit nomor pesawat dan travel (tidak boleh huruf)
+
+validasi harga, sisa tiket pesawat dan travel (tidak boleh huruf)
+
+
+-----------------------------------------
+transexpressnya mau animasi dijalanin ke kanan
+__________________________________________
+MENU USER
+
+pesan pesawat dan travel: validasi jumlah tiket (tidak boleh huruf), validasi nomor pesawat (tidak boleh huruf)
+
++---------------------------------------------+
+/////    DELETE    ///     SAVE FILE    //////
++---------------------------------------------+
+
+admin : delete data pesawat/travel

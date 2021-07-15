@@ -1,0 +1,4 @@
+1. kalo belom punya user, index kedua username selalu bisa digunakan
+2. kalo sudah punya user, index kedua selalu belum terdaftar
+3. masalahnya karena setiap false, dia ke prosedur login
+4. habis ke menu mana aja, pas balik ke awal, mau exit gabisa

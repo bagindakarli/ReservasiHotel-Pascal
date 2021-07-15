@@ -1,0 +1,49 @@
+Spesifikasi Minimum Tugas Besar :
+In order to get 60 Points, at least you have to fulfill the following minimum requirements. To get 100 Points you need to add more complexity from your creativity and imagination.
+Data :
+1. Sekurangnya menggunakan 2 tipe data bentukan
+2. Sekurangnya menggunakan 2 buah array
+3. Fungction/Procedure harus memiliki parameter
+4. Menggunakan file untuk menyimpan data
+Functionalities :
+1. Insert
+2. Update
+3. Delete
+4. Searching 
+5. Sorting
+
+Proposal terdiri dari :
+1. Penjelasan Umum Aplikasi yang akan dibuat.
+2. Bentuk Struktur Data, yaitu apa saja Tipe Data Bentukan dan Array yang akan digunakan.
+3. Fungsionalitas yang akan dibuat (Kasi penjelasan mana yang mengandung fungsionalitas minimum di atas, misal fungsionalitas A mengandung Searching)
+4. Maksimal 2 Halaman A4.
+
+Proposal disubmit ke Google Classroom ini, Maksimal Selasa, 7 November 2017, dan hardcopy dibawa saat kelas Selasa tersebut.
+
+Format :
+ 
+JUDUL PROPOSAL
+NAMA LENGKAP/NIM
+KELAS
+
+
+A. DESKRIPSI UMUM SISTEM
+Bagian ini berisi gambaran umum aplikasi/sistem yang akan dibuat. Juga berisi ruang lingkup dan batasan sistem.
+Contoh : Aplikasi ini bertujuan untuk mempermudah pencatatan proses penyewaan mobil. Aplikasi ini akan mencakup proses penyewaan, pengembalian, pembayaran, dan juga denda. Aplikasi focus hanya pada proses penyewaan sehingga tidak mencakup kehilangan dan kecelakaan yang terjadi selama penyewaan.
+
+B. DATA
+Aplikasi ini menggunakan 3 buah Tipe Data bentukan, yaitu :
+Mobil : <Nopol, Kapasitas, Harga>, untuk menyimpan data mobil
+Penyewa : <NoKTP, Nama, Alamat>, untuk menyimpan data penyewa
+Penyewaan : <Tanggal, NoKTPPenyewa, NopolMobil>, untuk menyimpan data penyewaan mobil
+
+dan 3 buah Array, yaitu :
+ArrayMobil : Mobil(Tipe dari array), untuk menyimpan data semua mobil yang dimiliki perusahaan
+ArrayPenyewa : Penyewa, untuk menyimpan data penyewa. Setiap yang akan menyewa dan belum terdaftar di ArrayPenyewa, harus ditambahkan ke ArrayPenyewa.
+ArrayPenyewaan : Penyewaan, ………………………………………
+
+C. FUNGSIONALITAS
+1. Insert/Update/Delete Data Mobil (Mengandung fungsionalitas 1)
+2. Menampilkan Data Mobil yang pernah disewa oleh seseorang (Mengandung fungsionalitas 2)
+3. Menampilkan data pengguna terurut dari yang paling sering meminjam (Mengandung fungsionalitas 3)
+4. Menampilkan laporan penggunaan masing2 mobil berdasarkan bulan (Mengandung fungsionalitas 4, 2, 3)

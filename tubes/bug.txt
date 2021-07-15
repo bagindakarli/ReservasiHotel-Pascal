@@ -1,0 +1,2 @@
+1. jumlah user
+2. exit di prosedur awal

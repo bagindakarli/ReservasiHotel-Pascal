@@ -1,0 +1,24 @@
+TRANS KALIMANTAN
+
+1. Login - Fungsionalitas (insert)
+- TLogin : Username, Password
+
+2. Menu (Tiket Pesawat, Tiket Travel, Hotel, Riwayat)
+
+3. Procedure (Tiket Pesawat) - Fungsionalitas (insert)
+- TPemesan : Nama, Jenis Kelamin (mr/ms)
+- TPesanPesawat : Pesawat, Kota Asal, Kota Tujuan, Pulang/Pergi, Tanggal Berangkat/Pulang, Jumlah Penumpang, Kelas Penerbangan,  Harga, Total(Fungsi)
+4. Procedure (Tiket Travel) - Fungsionalitas (insert)
+- TPemesan : Nama, Jenis Kelamin (mr/ms)
+- TPesanTravel :  Travel, Kota Asal, Kota Tujuan, Tanggal Berangkat, Jumlah Penumpang, Harga, Total(Fungsi)
+5. Procedure (Hotel) - Fungsionalitas (insert)
+- TPemesan : Nama, Jenis Kelamin (mr/ms)
+- TPesanHotel : Kota Tujuan, Hotel, Harga per malam, Tanggal Checkin/Tanggal Checkout, Durasi, Single/Double Bed, Total(Fungsi)
+
+(TIKET DENGAN HARGA YANG SAMA HANYA ADA 5UNIT/HARI, DAN AKAN BERKURANG SETIAP HABIS DIBELI
+
+7. Procedure (Riwayat)
+- Fungsionalitas (Delete, Searching, Sorting)
+
+8. Jika Login admin - Fungsionalitas (Update, Insert, Delete)
+- Procedure (Pesawat, Travel, Hotel)
