@@ -533,7 +533,7 @@ begin
                                         gotoxy(31,24+y);write('|');
                                         gotoxy(33,24+y);write(arrtravel[i].tnamat);
                                         gotoxy(49,24+y);write('|');
-                                        gotoxy(51,24+y);write(arrtravel[i].tplat);
+{COPYRIGHT BAGINDA}                     gotoxy(51,24+y);write(arrtravel[i].tplat);
                                         gotoxy(62,24+y);write('|');
                                         gotoxy(64,24+y);write('Rp',arrtravel[i].tharga,',-');
                                         gotoxy(76,24+y);write('|');
